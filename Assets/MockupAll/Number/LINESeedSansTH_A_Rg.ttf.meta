@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 4be229b498432b14a9c1c37a436bfbbc
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - LINE Seed Sans TH App
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 954bf3038b54da446af6d9b803e85473, type: 3}
+  - {fileID: 12800000, guid: 937db1c3687361e40a00dc003819fcad, type: 3}
+  - {fileID: 12800000, guid: f316f56e90b764c478ba47f8072267e7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

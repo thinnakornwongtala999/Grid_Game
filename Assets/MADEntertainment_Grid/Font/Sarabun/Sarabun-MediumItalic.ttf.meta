@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e28095dd4e72eef46967aba261c3dcb9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Sarabun
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 414b0a92e3775264b9c00adf15e7944c, type: 3}
+  - {fileID: 12800000, guid: c172590dcd94c4149a84522d4dc415da, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
