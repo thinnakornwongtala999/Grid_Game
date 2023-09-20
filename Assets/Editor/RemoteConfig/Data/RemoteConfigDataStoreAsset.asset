@@ -12,34 +12,34 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
   m_Name: RemoteConfigDataStoreAsset
   m_EditorClassIdentifier: 
-  _rsKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"9b1e4355-f582-4f36-81eb-02c66dd4c680\"\r\n   
+  _rsKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"9d9e2210-22c4-4561-976a-1eb1b4958b58\"\r\n   
     },\r\n    \"rs\": {\r\n      \"key\": \"URL_API_Gameset\",\r\n      \"type\":
     \"string\",\r\n      \"value\": \"https://dev.cobiz19.co.th/ldg/Api/Getgameset\"\r\n   
-    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"c1587bce-3bbc-4a93-91d2-dff66bcee9d1\"\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"233d91e3-3721-46f2-839e-bae0d6343de0\"\r\n   
     },\r\n    \"rs\": {\r\n      \"key\": \"URL_API_SetReward\",\r\n      \"type\":
     \"string\",\r\n      \"value\": \"https://dev.cobiz19.co.th/ldg/Api/Setreward\"\r\n   
-    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"a8e776b4-1ba2-4c16-9175-320a3c42019e\"\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"62e082cf-b844-4159-ae8f-8a757c4bfe73\"\r\n   
     },\r\n    \"rs\": {\r\n      \"key\": \"URL_API_Checkcode\",\r\n      \"type\":
     \"string\",\r\n      \"value\": \"https://dev.cobiz19.co.th/ldg/Api/Checkcode\"\r\n   
-    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"cf5edbd4-f091-44a8-837c-4ce5092fd5cc\"\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"c50b7e89-197a-488a-a1e4-37eff2953c85\"\r\n   
     },\r\n    \"rs\": {\r\n      \"key\": \"id\",\r\n      \"type\": \"string\",\r\n     
     \"value\": \"105\"\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
-    \"07b8adef-c3ec-4a7b-9d52-f4470b3fae59\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"7de5619a-4547-4a92-a175-05488ba0aefb\"\r\n    },\r\n    \"rs\": {\r\n     
     \"key\": \"CustomerName\",\r\n      \"type\": \"string\",\r\n      \"value\":
     \"PURE GAME\"\r\n    }\r\n  }\r\n]"
-  _rsLastCachedKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"9b1e4355-f582-4f36-81eb-02c66dd4c680\"\r\n   
+  _rsLastCachedKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"9d9e2210-22c4-4561-976a-1eb1b4958b58\"\r\n   
     },\r\n    \"rs\": {\r\n      \"key\": \"URL_API_Gameset\",\r\n      \"type\":
     \"string\",\r\n      \"value\": \"https://dev.cobiz19.co.th/ldg/Api/Getgameset\"\r\n   
-    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"c1587bce-3bbc-4a93-91d2-dff66bcee9d1\"\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"233d91e3-3721-46f2-839e-bae0d6343de0\"\r\n   
     },\r\n    \"rs\": {\r\n      \"key\": \"URL_API_SetReward\",\r\n      \"type\":
     \"string\",\r\n      \"value\": \"https://dev.cobiz19.co.th/ldg/Api/Setreward\"\r\n   
-    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"a8e776b4-1ba2-4c16-9175-320a3c42019e\"\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"62e082cf-b844-4159-ae8f-8a757c4bfe73\"\r\n   
     },\r\n    \"rs\": {\r\n      \"key\": \"URL_API_Checkcode\",\r\n      \"type\":
     \"string\",\r\n      \"value\": \"https://dev.cobiz19.co.th/ldg/Api/Checkcode\"\r\n   
-    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"cf5edbd4-f091-44a8-837c-4ce5092fd5cc\"\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"c50b7e89-197a-488a-a1e4-37eff2953c85\"\r\n   
     },\r\n    \"rs\": {\r\n      \"key\": \"id\",\r\n      \"type\": \"string\",\r\n     
     \"value\": \"105\"\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
-    \"07b8adef-c3ec-4a7b-9d52-f4470b3fae59\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"7de5619a-4547-4a92-a175-05488ba0aefb\"\r\n    },\r\n    \"rs\": {\r\n     
     \"key\": \"CustomerName\",\r\n      \"type\": \"string\",\r\n      \"value\":
     \"PURE GAME\"\r\n    }\r\n  }\r\n]"
   _environments: "[\r\n  {\r\n    \"projectId\": \"b22f794a-001c-429e-8f5f-ffb1302c05d1\",\r\n   

@@ -43,13 +43,11 @@ public class Remote_Config : MonoBehaviour
 
     void ApplyRemoteSettings(ConfigResponse configResponse)
     {
-        Debug.Log("RemoteConfigService.Instance.appConfig fetched: " + RemoteConfigService.Instance.appConfig.config.ToString());
+        //Debug.Log("RemoteConfigService.Instance.appConfig fetched: " + RemoteConfigService.Instance.appConfig.config.ToString());
         URL_Api_Checkcode = RemoteConfigService.Instance.appConfig.GetString("URL_API_Checkcode");
         URL_Api_Gameset = RemoteConfigService.Instance.appConfig.GetString("URL_API_Gameset");
         URL_Api_SetReward = RemoteConfigService.Instance.appConfig.GetString("URL_API_SetReward");
         ID = RemoteConfigService.Instance.appConfig.GetString("id");
         CustomerName = RemoteConfigService.Instance.appConfig.GetString("CustomerName");
-        Debug.Log(ID);
-        Debug.Log(CustomerName);
     }
 }
